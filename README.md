@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Im **Bimbo E. Villaganas** also known as **Bimbo**, and I'm a **Second (2nd) Year BSIT Student** at **Northern Bukidnon State College (NBSC)**. My dream is to become a **Fullstack developer**. I am committed to learn programming languages to understand the route I take and design a suitable roadmap so that I may become IT professional. My main objective is to enable my programming skills and reach my dream to become a fullstack developer.<br><br>
+As a second-year BSIT student at Northern Bukidnon State College, I am Bimbo E. Villaganas, also known as Bimbo. My dream is to become a full-stack developer, and I am dedicated to honing my programming skills to understand the path I must take and create a suitable roadmap to achieve my goal of becoming an IT professional. My primary objective is to enhance my programming skills and achieve my dream of becoming a full-stack developer.<br><br>
 
 <a href="https://www.youtube.com/channel/UCFYGxGd90LO7GRtWivusshQ"><img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465"></a><img><br><br>
 
